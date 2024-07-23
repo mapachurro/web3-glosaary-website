@@ -5,7 +5,7 @@ const csv = require('csv-parser');
 const results = [];
 
 // Read the CSV file
-fs.createReadStream(path.join(__dirname, 'glossary149.csv'))
+fs.createReadStream(path.join(__dirname, 'terms-1.4.9.2.csv'))
   .pipe(csv())
   .on('data', (data) => results.push(data))
   .on('end', () => {

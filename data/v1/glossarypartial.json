@@ -1,0 +1,1523 @@
+{
+  "terms": {
+    "51% attack": {
+      "term": "51% attack",
+      "phonetic": "/ˈfɪfti wʌn pərˈsɛnt əˈtæk/",
+      "partOfSpeech": "noun",
+      "definition": "If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.",
+      "termCategory": "decentralized web"
+    },
+    "account": {
+      "term": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "partOfSpeech": "noun",
+      "definition": "Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose. In the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process.",
+      "termCategory": "decentralized web"
+    },
+    "address": {
+      "term": "address",
+      "phonetic": "/ˈæd.rɛs/ \"ˈpʌblɪk ˈæd.rɛs\"",
+      "partOfSpeech": "noun",
+      "definition": "Synonymous with \"public address\", \"wallet address\". Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
+      "termCategory": "decentralized web"
+    },
+    "aggregator": {
+      "term": "aggregator",
+      "phonetic": "/ˈæɡrɪˌɡeɪtər/",
+      "partOfSpeech": "noun",
+      "definition": "An aggregator is a platform that aggregates liquidity from multiple decentralized exchanges (DEXs) or other sources of liquidity to provide users with the best prices and the most efficient execution for their trades.",
+      "termCategory": "decentralized web"
+    },
+    "air-gapping": {
+      "term": "air-gapping",
+      "phonetic": "/ˈɛrˌɡæpɪŋ/",
+      "partOfSpeech": "verb",
+      "definition": "A method for securing computers in which the device does not connect to the internet or any other open networks. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys or Secret Recovery Phrase offline, and thus safer from any kind of attack.",
+      "termCategory": "decentralized web"
+    },
+    "airdrop": {
+      "term": "airdrop",
+      "phonetic": "/ˈɛrˌdrɑp/",
+      "partOfSpeech": "noun",
+      "definition": "A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.",
+      "termCategory": "decentralized web"
+    },
+    "altcoin": {
+      "term": "altcoin",
+      "phonetic": "/ˈɔltˌkɔɪn/",
+      "partOfSpeech": "noun",
+      "definition": "As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
+      "termCategory": "decentralized web"
+    },
+    "appchain": {
+      "term": "appchain",
+      "phonetic": "/ˈæpˌtʃeɪn/",
+      "partOfSpeech": "noun",
+      "definition": "A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: 'blockchain trilemma', 'modular blockchain', 'Layer 2', 'Layer 3'.",
+      "termCategory": "decentralized web"
+    },
+    "asset provenance": {
+      "term": "asset provenance",
+      "phonetic": "/ˈæsɛt ˈprɑvənəns/",
+      "partOfSpeech": "noun",
+      "definition": "Asset provenance refers to the origin, history, and ownership of a particular digital asset on the blockchain. In the crypto context, asset provenance refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.",
+      "termCategory": "decentralized web"
+    },
+    "attestation": {
+      "term": "attestation",
+      "phonetic": "/ˌætɪˈsteɪʃən/",
+      "partOfSpeech": "noun",
+      "definition": "Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network. In general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature. One example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with. Another example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts. For more info, see Attestation in Ethereum.",
+      "termCategory": "decentralized web"
+    },
+    "base fee": {
+      "term": "base fee",
+      "phonetic": "/ˈbeɪs fiː/",
+      "partOfSpeech": "noun",
+      "definition": "Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.",
+      "termCategory": "decentralized web"
+    },
+    "block": {
+      "term": "block",
+      "phonetic": "/blɑk/",
+      "partOfSpeech": "noun",
+      "definition": "If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, 'distributed ledger technology' is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a 'block' and officially recorded; this 'block' forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.",
+      "termCategory": "decentralized web"
+    },
+    "block explorer": {
+      "term": "block explorer",
+      "phonetic": "/blɑk ɪkˈsplɔrər/",
+      "partOfSpeech": "noun",
+      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+      "termCategory": "decentralized web"
+    },
+    "block height": {
+      "term": "block height",
+      "phonetic": "/blɑk haɪt/",
+      "partOfSpeech": "noun",
+      "definition": "The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.",
+      "termCategory": "decentralized web"
+    },
+    "block reward": {
+      "term": "block reward",
+      "phonetic": "/blɑk rɪˈwɔrd/",
+      "partOfSpeech": "noun",
+      "definition": "The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
+      "termCategory": "decentralized web"
+    },
+    "block time": {
+      "term": "block time",
+      "phonetic": "/blɑk taɪm/",
+      "partOfSpeech": "noun",
+      "definition": "When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.",
+      "termCategory": "decentralized web"
+    },
+    "blockchain": {
+      "term": "blockchain",
+      "phonetic": "/ˈblɑkˌtʃeɪn/",
+      "partOfSpeech": "noun",
+      "definition": "A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.",
+      "termCategory": "decentralized web"
+    },
+    "blockchain explorer": {
+      "term": "blockchain explorer",
+      "phonetic": "/ˈblɑkˌtʃeɪn ɪkˈsplɔrər/",
+      "partOfSpeech": "noun",
+      "definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be 'readable by anyone', finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+      "termCategory": "decentralized web"
+    },
+    "blockchain trilemma": {
+      "term": "blockchain trilemma",
+      "phonetic": "/ˈblɑkˌtʃeɪn traɪˈlɛmə/",
+      "partOfSpeech": "noun",
+      "definition": "Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.",
+      "termCategory": "decentralized web"
+    },
+    "brain wallet": {
+      "term": "brain wallet",
+      "phonetic": "/breɪn ˈwɔlɪt/",
+      "partOfSpeech": "noun",
+      "definition": "A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.",
+      "termCategory": "decentralized web"
+    },
+    "bridge": {
+      "term": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "partOfSpeech": "noun",
+      "definition": "A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. See also MetaMask Bridge",
+      "termCategory": "decentralized web"
+    },
+    "buidl": {
+      "term": "buidl",
+      "phonetic": "/ˈbɪdl/",
+      "partOfSpeech": "noun",
+      "definition": "Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.",
+      "termCategory": "decentralized web"
+    },
+    "Byzantium fork": {
+      "term": "Byzantium fork",
+      "phonetic": "/bɪˈzæn.ti.əm fɔːrk/",
+      "partOfSpeech": "noun",
+      "definition": "A 'hard fork' in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also 'hard fork'.",
+      "termCategory": "decentralized web"
+    },
+    "centralized exchange": {
+      "term": "centralized exchange",
+      "phonetic": "/ˌsɛntrəˈlaɪzd ɪkˈstʃeɪndʒ/, /ˈsiːˈɛks/",
+      "partOfSpeech": "noun",
+      "definition": "A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools. However, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
+      "termCategory": "decentralized web"
+    },
+    "CEX": {
+      "term": "CEX",
+      "phonetic": "/ˈsiːˈɛks/",
+      "partOfSpeech": "noun",
+      "definition": "Acronym; see 'Centralized Exchange'.",
+      "termCategory": "decentralized web"
+    },
+    "chain ID": {
+      "term": "chain ID",
+      "phonetic": "/tʃeɪn ˈaɪˈdiː/",
+      "partOfSpeech": "noun",
+      "definition": "A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network. Ethereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses. Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID",
+      "termCategory": "decentralized web"
+    },
+    "client": {
+      "term": "client",
+      "phonetic": "/ˈklaɪənt/, /ɪˈθiːriəm ɔːr ˈʌðər kəmˈpætəbl ˈblɒkˌtʃeɪn/",
+      "partOfSpeech": "noun",
+      "definition": "In computing in general, a 'client' is a program, running on a local computer, that is accessing data made available by a remote computer. In public blockchain networks, a 'client' is the software that actually does the work of syncing block data, confirming transactions, participating in network consensus, and running any virtual machine or logic processes, if applicable. A client usually includes a cryptocurrency software wallet.",
+      "termCategory": "decentralized web"
+    },
+    "coin": {
+      "term": "coin",
+      "phonetic": "/kɔɪn/",
+      "partOfSpeech": "noun",
+      "definition": "The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.",
+      "termCategory": "decentralized web"
+    },
+    "cold storage": {
+      "term": "cold storage",
+      "phonetic": "/koʊld ˈstɔrɪdʒ/",
+      "partOfSpeech": "noun",
+      "definition": "cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online.",
+      "termCategory": "decentralized web"
+    },
+    "Hardware Wallet Hub\"\r\ncold wallet,noun,decentralized web,/koʊld ˈwɔlɪt/ /koʊld ˈstɔrɪdʒ/,\"An offline wallet that is never connected to the internet. These are often referred to as \"airgapped\" or \"cold storage\" wallets; the usage of temperature as a metaphor is to indicate both the ease with which the assets held in accounts by the wallet can be used on a network, as well as an indicator of risk. The idea here is that a \"hot\" wallet, connected to the Internet, is \"ready to use on chain\", and also has a higher risk of being compromised by bad actors. Cold storage wallets, therefore, offer much greater protection for crypto-held assets and tokens.\"\r\nconfirmation,noun,decentralized web,/ˌkɒnfərˈmeɪʃən/,\"A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.\"\r\nconsensus,noun,decentralized web,/kənˈsɛnsəs/,\"The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger. There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.\"\r\nconsensus client,noun,decentralized web,/kənˈsɛnsəs ˈklaɪənt/,\"A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger. See also: \"consensus mechanism\".\"\r\nconsensus mechanism,noun,decentralized web,/kənˈsɛnsəs ˈleɪər/,Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.\r\nConstantinople fork,noun,decentralized web,/ˌkɒnstænˈtɪnəpl fɔːrk/,\"One of the 'hard forks' made to the Ethereum network, in February 2019. For more detailed information, see here; see also 'hard fork'.\"\r\ncontract,noun,decentralized web,/ˈkɒntrækt/,See smart contract\r\ncontract account,noun,decentralized web,/ˈkɒntrækt əˈkaʊnt/,An account containing code that executes whenever it receives a transaction from another account (EOA or contract).\r\ncrypto asset,noun,decentralized web,/ˈkrɪptoʊ ˈæsɛt/,\"A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.\"\r\ncrypto bounties,noun,decentralized web,/ˈkrɪptoʊ ˈbaʊntiz/,\"Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties \"\r\ncrypto fund,noun,decentralized web,/ˈkrɪptoʊ fʌnd/,A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.\r\ncrypto wallet,noun,decentralized web,/ˈkrɪptoʊ ˈwɔlɪt/,\"A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions. Crypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.\"\r\ncrypto-,noun,decentralized web,/ˈkrɪptoʊ-/,\"Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of 'crypto' tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, 'cryptocurrency' often gets shortened to simply 'crypto', so this emerging field is full of instances where something 'crypto' is being added to or shortened. With the emergence of the term 'Web3', arguably a distinction has begun to be made between 'crypto', referring to DeFi and other financial use cases of the technology, while 'Web3' refers to the transition of Internet-based activities to more decentralized practices and platforms.\"\r\ncrypto-compliance,noun,decentralized web,/ˈkrɪptoʊ-kəmˈplaɪəns/,A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.\r\ncryptoassets,noun,decentralized web,/ˈkrɪptoʊˌæsɛts/,\"A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.\"\r\ncryptocurrency,noun,decentralized web,/ˌkrɪptəˈkɜrənsi/,\"Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.\"\r\ncryptoeconomics,noun,decentralized web,/ˌkrɪptoʊɪˈkɒnəmɪks/,\"The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.\"\r\ncryptography,noun,decentralized web,/krɪpˈtɒɡrəfi/,\"In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.\"\r\nDAO,noun,decentralized web,/daʊ/,Acronym; see 'Decentralized Autonomous Organization'.\r\ndapp,noun,decentralized web,/dæp/,Acronym; see 'decentralized application'\r\ndecentralization,noun,decentralized web,/ˌdiːsɛntrəlɪˈzeɪʃən/,\"The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.\"\r\ndecentralized application,noun,decentralized web,/ˌdiːsɛntrəlaɪzd ˌæplɪˈkeɪʃən/,\"An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.\"\r\nDecentralized Autonomous Organization,noun,decentralized web,\"/ˌdiːsɛntrəlaɪzd ɔːˈtɒnəməs ˌɔrɡənaɪˈzeɪʃən/, /daʊ/\"": {
+      "term": "Hardware Wallet Hub\"\r\ncold wallet,noun,decentralized web,/koʊld ˈwɔlɪt/ /koʊld ˈstɔrɪdʒ/,\"An offline wallet that is never connected to the internet. These are often referred to as \"airgapped\" or \"cold storage\" wallets; the usage of temperature as a metaphor is to indicate both the ease with which the assets held in accounts by the wallet can be used on a network, as well as an indicator of risk. The idea here is that a \"hot\" wallet, connected to the Internet, is \"ready to use on chain\", and also has a higher risk of being compromised by bad actors. Cold storage wallets, therefore, offer much greater protection for crypto-held assets and tokens.\"\r\nconfirmation,noun,decentralized web,/ˌkɒnfərˈmeɪʃən/,\"A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.\"\r\nconsensus,noun,decentralized web,/kənˈsɛnsəs/,\"The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger. There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.\"\r\nconsensus client,noun,decentralized web,/kənˈsɛnsəs ˈklaɪənt/,\"A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger. See also: \"consensus mechanism\".\"\r\nconsensus mechanism,noun,decentralized web,/kənˈsɛnsəs ˈleɪər/,Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.\r\nConstantinople fork,noun,decentralized web,/ˌkɒnstænˈtɪnəpl fɔːrk/,\"One of the 'hard forks' made to the Ethereum network, in February 2019. For more detailed information, see here; see also 'hard fork'.\"\r\ncontract,noun,decentralized web,/ˈkɒntrækt/,See smart contract\r\ncontract account,noun,decentralized web,/ˈkɒntrækt əˈkaʊnt/,An account containing code that executes whenever it receives a transaction from another account (EOA or contract).\r\ncrypto asset,noun,decentralized web,/ˈkrɪptoʊ ˈæsɛt/,\"A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.\"\r\ncrypto bounties,noun,decentralized web,/ˈkrɪptoʊ ˈbaʊntiz/,\"Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties \"\r\ncrypto fund,noun,decentralized web,/ˈkrɪptoʊ fʌnd/,A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.\r\ncrypto wallet,noun,decentralized web,/ˈkrɪptoʊ ˈwɔlɪt/,\"A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions. Crypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.\"\r\ncrypto-,noun,decentralized web,/ˈkrɪptoʊ-/,\"Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of 'crypto' tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, 'cryptocurrency' often gets shortened to simply 'crypto', so this emerging field is full of instances where something 'crypto' is being added to or shortened. With the emergence of the term 'Web3', arguably a distinction has begun to be made between 'crypto', referring to DeFi and other financial use cases of the technology, while 'Web3' refers to the transition of Internet-based activities to more decentralized practices and platforms.\"\r\ncrypto-compliance,noun,decentralized web,/ˈkrɪptoʊ-kəmˈplaɪəns/,A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.\r\ncryptoassets,noun,decentralized web,/ˈkrɪptoʊˌæsɛts/,\"A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.\"\r\ncryptocurrency,noun,decentralized web,/ˌkrɪptəˈkɜrənsi/,\"Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.\"\r\ncryptoeconomics,noun,decentralized web,/ˌkrɪptoʊɪˈkɒnəmɪks/,\"The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.\"\r\ncryptography,noun,decentralized web,/krɪpˈtɒɡrəfi/,\"In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.\"\r\nDAO,noun,decentralized web,/daʊ/,Acronym; see 'Decentralized Autonomous Organization'.\r\ndapp,noun,decentralized web,/dæp/,Acronym; see 'decentralized application'\r\ndecentralization,noun,decentralized web,/ˌdiːsɛntrəlɪˈzeɪʃən/,\"The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.\"\r\ndecentralized application,noun,decentralized web,/ˌdiːsɛntrəlaɪzd ˌæplɪˈkeɪʃən/,\"An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.\"\r\nDecentralized Autonomous Organization,noun,decentralized web,\"/ˌdiːsɛntrəlaɪzd ɔːˈtɒnəməs ˌɔrɡənaɪˈzeɪʃən/, /daʊ/\"",
+      "phonetic": "\r\ndenominations",
+      "partOfSpeech": "A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.\"\r\ndecentralized exchange,noun,decentralized web,\"/ˌdiːsɛntrəˈlaɪzd ɪkˈstʃeɪndʒ/, /ˈdɛks/",
+      "definition": "noun",
+      "termCategory": "A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools. The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.\"\r\ndecentralized web,noun,decentralized web,/ˌdiːsɛntrəˈlaɪzd wɛb/,\"The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data. In contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.\"\r\nDeFi,noun,decentralized web,/ˈdiːˌfaɪ/,\r\nDelegated proof of stake (DPoS),noun,decentralized web,\"/dɪˈlɛɡeɪtɪd pruːf əv steɪk/, /ˌdiːˌpiːˈoʊˈɛs/"
+    },
+    "sidechain": {
+      "term": "sidechain",
+      "phonetic": "/ˈsaɪdˌtʃeɪn/",
+      "partOfSpeech": "noun",
+      "definition": "A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”. Note: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.",
+      "termCategory": "decentralized web"
+    },
+    "signature": {
+      "term": "signature",
+      "phonetic": "/ˈsɪɡnətʃər/, /ˌkrɪptəˈɡræfɪk/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of public blockchain networks, a \"signature\" is generally a cryptographic signature, generated by a public-private key pair. See 'Digital signature'",
+      "termCategory": "decentralized web"
+    },
+    "slashing condition": {
+      "term": "slashing condition",
+      "phonetic": "/ˈslæʃɪŋ kənˈdɪʃən/",
+      "partOfSpeech": "noun",
+      "definition": "Under a Proof of Stake (PoS) consensus mechanism, a slashing condition is one that causes the validator's deposit to be destroyed when they trigger it. See also 'Proof of Stake'.",
+      "termCategory": "decentralized web"
+    },
+    "slippage": {
+      "term": "slippage",
+      "phonetic": "/ˈslɪpɪdʒ/",
+      "partOfSpeech": "noun",
+      "definition": "Slippage is the expected percentage difference between a quoted and an executed price. ",
+      "termCategory": "decentralized web"
+    },
+    "slot": {
+      "term": "slot",
+      "phonetic": "/slɒt/",
+      "partOfSpeech": "noun",
+      "definition": "In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid",
+      "termCategory": "decentralized web"
+    },
+    "smart contract": {
+      "term": "smart contract",
+      "phonetic": "/smɑːrt ˈkɒntrækt/",
+      "partOfSpeech": "noun",
+      "definition": "Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.",
+      "termCategory": "decentralized web"
+    },
+    "soft fork": {
+      "term": "soft fork",
+      "phonetic": "/sɒft fɔrk/",
+      "partOfSpeech": "noun",
+      "definition": "A change to the blockchain protocol resulting in only previously valid blocks and transactions being made invalid. Since old nodes will recognize the new blocks as valid, a soft fork is backward-compatible. However, this can result in a potential divide in the blockchain, as the old software generates blocks that read as invalid according to the new rules. Contrast with 'hard fork'; for more basic information regarding forks, see 'fork'.",
+      "termCategory": "decentralized web"
+    },
+    "stablecoin": {
+      "term": "stablecoin",
+      "phonetic": "/ˈsteɪblˌkɔɪn/",
+      "partOfSpeech": "noun",
+      "definition": "A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens ",
+      "termCategory": "decentralized web"
+    },
+    "staking": {
+      "term": "staking",
+      "phonetic": "/ˈsteɪkɪŋ/",
+      "partOfSpeech": "noun",
+      "definition": "On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well. Although this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.",
+      "termCategory": "decentralized web"
+    },
+    "state": {
+      "term": "state",
+      "phonetic": "/steɪt/",
+      "partOfSpeech": "noun",
+      "definition": "The set of data that a blockchain network strictly needs to keep track of, and that represents data currently relevant to applications on the chain.",
+      "termCategory": "decentralized web"
+    },
+    "state channels": {
+      "term": "state channels",
+      "phonetic": "/steɪt ˈtʃænəlz/",
+      "partOfSpeech": "noun",
+      "definition": "State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.",
+      "termCategory": "decentralized web"
+    },
+    "streaming": {
+      "term": "streaming",
+      "phonetic": "/ˈstriːmɪŋ/",
+      "partOfSpeech": "noun",
+      "definition": "Money streaming represents the idea of continuous payments over time. Block numbers are used to measure time in the blockchain and continuously update the balances of the parties in the contract.",
+      "termCategory": "decentralized web"
+    },
+    "swap": {
+      "term": "swap",
+      "phonetic": "/swɒp/",
+      "partOfSpeech": "verb",
+      "definition": "As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as 'swapping', and the individual action, 'a swap', or in the verb form, 'to swap.' This form is lowercase. Capitalization (except at the beginning of a word or in a title) indicates reference to a particular platform for swapping, e.g. MetaMask Swaps.",
+      "termCategory": "decentralized web"
+    },
+    "szabo": {
+      "term": "szabo",
+      "phonetic": "/ˈsæboʊ/",
+      "partOfSpeech": "noun",
+      "definition": "A denomination of ETH. See also 'ether (denominations)'.",
+      "termCategory": "decentralized web"
+    },
+    "Consensys": {
+      "term": "Consensys",
+      "phonetic": "/kənˈsɛnsɪs/",
+      "partOfSpeech": "noun",
+      "definition": "Short for Consensus Systems, fka ConsenSys. Launched alongside the founding of the Ethereum network by Joseph Lubin, Consensys was a sort of incubator, seeking to discover, nurture, and develop software, tooling, and use cases for programmable public blockchain networks. Consensys Mesh continues to serve in this broader \"incubator\" role, while Consensys Software Inc. is a for-profit company, maintaining and producing the MetaMask wallet, the Infura and DeFura blockchain data access protocols, the Linea zkEVM Layer 2 network, and the Diligence smart contract auditing service, amongst many other products.",
+      "termCategory": "project or product"
+    },
+    "Infura": {
+      "term": "Infura",
+      "phonetic": "/ɪnˈfjʊərə/",
+      "partOfSpeech": "noun",
+      "definition": "Part of Consensys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.",
+      "termCategory": "project or product "
+    },
+    "Linea": {
+      "term": "Linea",
+      "phonetic": "/lɪˈniːə/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product "
+    },
+    "MetaMask": {
+      "term": "MetaMask",
+      "phonetic": "/ˈmɛtəˌmæsk/",
+      "partOfSpeech": "noun",
+      "definition": "MetaMask, either in its mobile app form on iOS and Android, or in its browser extension form, is a tool to access and interact with blockchains and the decentralized web. It allows users to manage their digital identity and the permission of others to interact with that identity; its functions include that of a wallet, a dapp permissions manager, and access to token swaps. It is an open-source project that encourages developers from other projects to build on top of it through MetaMask Snaps.",
+      "termCategory": "project or product "
+    },
+    "MetaMask Flask": {
+      "term": "MetaMask Flask",
+      "phonetic": "/ˈmɛtəˌmæsk flæsk/",
+      "partOfSpeech": "noun",
+      "definition": "MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.",
+      "termCategory": "project or product "
+    },
+    "MetaMask Institutional": {
+      "term": "MetaMask Institutional",
+      "phonetic": "/ˈmɛtəˌmæsk ˌɪnstɪˈtjuːʃənl/",
+      "partOfSpeech": "noun",
+      "definition": "MetaMask Institutional is an institution-compliant version of the world’s leading web3 wallet, MetaMask. Organizations trust us to manage their web3 access and engagement with institution-required security, operational efficiency, and compliance. MetaMask Institutional ",
+      "termCategory": "project or product "
+    },
+    "MetaMask Learn": {
+      "term": "MetaMask Learn",
+      "phonetic": "/ˈmɛtəˌmæsk lɜrn/",
+      "partOfSpeech": "noun",
+      "definition": "MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.",
+      "termCategory": "project or product "
+    },
+    "MetaMask Swaps": {
+      "term": "MetaMask Swaps",
+      "phonetic": "/ˈmɛtəˌmæsk swɒps/",
+      "partOfSpeech": "noun",
+      "definition": "Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps. Swaps, when capitalized and referring to this product, should be left in English. ",
+      "termCategory": "project or product "
+    },
+    "MMI": {
+      "term": "MMI",
+      "phonetic": "/ˌɪnstɪˈtjuːʃənl/, /ˈmɛtəˌmæsk ˌɪnstɪˈtjuːʃənl/, /ˌɛmˌɛmˈaɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; MetaMask Institutional.",
+      "termCategory": "project or product "
+    },
+    "Portfolio": {
+      "term": "Portfolio",
+      "phonetic": "/ˈpɔrtfoʊlioʊ/",
+      "partOfSpeech": "noun",
+      "definition": "The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.",
+      "termCategory": "project or product "
+    },
+    "Quorum": {
+      "term": "Quorum",
+      "phonetic": "/ˈkwɔrəm/",
+      "partOfSpeech": "noun",
+      "definition": "ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.",
+      "termCategory": "project or product "
+    },
+    "Snaps (MetaMask Snaps)": {
+      "term": "Snaps (MetaMask Snaps)",
+      "phonetic": "/snæps/, /ˈmɛtəˌmæsk snæps/",
+      "partOfSpeech": "noun",
+      "definition": "A program or piece of code that extends the functionality of MetaMask by using the MetaMask Snaps framework.",
+      "termCategory": "project or product "
+    },
+    "Teku": {
+      "term": "Teku",
+      "phonetic": "/ˈtiːkuː/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product "
+    },
+    "0x API": {
+      "term": "0x API",
+      "phonetic": "/ˌzɪroʊ ˈɛks ˈeɪ.pi.aɪ/",
+      "partOfSpeech": "noun",
+      "definition": "The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users.",
+      "termCategory": "project or product"
+    },
+    "1inch": {
+      "term": "1inch",
+      "phonetic": "/ˈwʌn ɪntʃ/",
+      "partOfSpeech": "noun",
+      "definition": "Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.",
+      "termCategory": "project or product"
+    },
+    "3Box Labs": {
+      "term": "3Box Labs",
+      "phonetic": "/ˈθriː bɑks ˈlæbz/",
+      "partOfSpeech": "noun",
+      "definition": "The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem",
+      "termCategory": "project or product"
+    },
+    "Aave": {
+      "term": "Aave",
+      "phonetic": "/ˈɑː.veɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Aave is an open source protocol to create non-custodial liquidity markets to earn interest on supplying and borrowing assets with a variable or stable interest rate.",
+      "termCategory": "project or product"
+    },
+    "Agoric": {
+      "term": "Agoric",
+      "phonetic": "/ˈæɡərɪk/",
+      "partOfSpeech": "noun",
+      "definition": "Agoric is a Proof-of-Stake blockchain that functions as a smart contract platform, enabling developers to deploy decentralized applications. The platform is built on a variant of the JavaScript programming language, which is a widely used language for web development. ",
+      "termCategory": "project or product"
+    },
+    "AirGap Vault": {
+      "term": "AirGap Vault",
+      "phonetic": "/ˈɛrˌɡæp vɔlt/",
+      "partOfSpeech": "noun",
+      "definition": "AirGap Vault is a crypto wallet application that provides secure storage for digital assets. The wallet is designed to be used in conjunction with AirGap's other wallet app, AirGap Wallet, which is used for sending and receiving transactions.",
+      "termCategory": "project or product"
+    },
+    "AirSwap": {
+      "term": "AirSwap",
+      "phonetic": "/ˈɛrˌswɑp/",
+      "partOfSpeech": "noun",
+      "definition": "AirSwap is a decentralized exchange (DEX) platform for trading digital assets, operating on Ethereum and Layer-2s like Polygon, Arbitrum.",
+      "termCategory": "project or product"
+    },
+    "Apple Pay": {
+      "term": "Apple Pay",
+      "phonetic": "/ˈæpəl ˈpeɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Apple Pay is a mobile payment service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web.",
+      "termCategory": "project or product"
+    },
+    "Arbitrum": {
+      "term": "Arbitrum",
+      "phonetic": "/ˈɑrbɪtrəm/",
+      "partOfSpeech": "noun",
+      "definition": "Arbitrum is a layer 2 scaling solution for Ethereum, designed to improve the scalability and reduce the cost of transactions on the Ethereum network. It is an implementation of the Optimistic Rollup technology, which is a type of scaling solution that uses off-chain computation to reduce the load on the main Ethereum network.",
+      "termCategory": "project or product"
+    },
+    "Aurora": {
+      "term": "Aurora",
+      "phonetic": "/əˈrɔrə/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Avalanche": {
+      "term": "Avalanche",
+      "phonetic": "/ˈævəˌlæntʃ/",
+      "partOfSpeech": "noun",
+      "definition": "Avalanche is a decentralized blockchain platform designed to provide fast and secure transactions for digital assets and applications. The platform uses a consensus mechanism known as Avalanche consensus, which allows for high throughput, low latency, and customizable blockchains.",
+      "termCategory": "project or product"
+    },
+    "AVAX": {
+      "term": "AVAX",
+      "phonetic": "/ˈeɪˈvæks/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Axie Infinity": {
+      "term": "Axie Infinity",
+      "phonetic": "/ˈæksi ɪnˈfɪnɪti/",
+      "partOfSpeech": "noun",
+      "definition": "Axie Infinity is a non-fungible token-based online video game known for its in-game economy, which uses Ethereum-based cryptocurrencies.",
+      "termCategory": "project or product"
+    },
+    "Banxa": {
+      "term": "Banxa",
+      "phonetic": "/ˈbæŋksə/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Beacon Chain": {
+      "term": "Beacon Chain",
+      "phonetic": "/ˈbiːkən tʃeɪn/",
+      "partOfSpeech": "noun",
+      "definition": "The Beacon Chain was one element built in the infrastructure being built to scale Ethereum. It was the foundation for a transition from a Proof of Work (PoW) consensus mechanism to Proof of Stake (PoS). For more information, see this guide.",
+      "termCategory": "project or product"
+    },
+    "Besu": {
+      "term": "Besu",
+      "phonetic": "/ˈbɛsuː/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Binance": {
+      "term": "Binance",
+      "phonetic": "/ˈbaɪnæns/",
+      "partOfSpeech": "noun",
+      "definition": "Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.",
+      "termCategory": "project or product"
+    },
+    "bitcoin": {
+      "term": "bitcoin",
+      "phonetic": "/ˈbɪtˌkɔɪn/, /ˈbiːˈtiːˈsiː/",
+      "partOfSpeech": "noun",
+      "definition": "Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive bitcoins using digital wallets. One of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. When referring to the overall network, capitalization is appropriate (Bitcoin), whereas when referring to the tokens themselves, lower-case is more appropriate (bitcoin). The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.",
+      "termCategory": "project or product"
+    },
+    "Bitcoin": {
+      "term": "Bitcoin",
+      "phonetic": "/ˈbɪtkɔɪn/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "BNB": {
+      "term": "BNB",
+      "phonetic": "/ˈbiːɛnˈbiː/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "BNB Chain": {
+      "term": "BNB Chain",
+      "phonetic": "/ˈbiːˈɛnˈbiː tʃeɪn/",
+      "partOfSpeech": "noun",
+      "definition": "Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3. BNB chain ",
+      "termCategory": "project or product"
+    },
+    "Brave": {
+      "term": "Brave",
+      "phonetic": "/breɪv/",
+      "partOfSpeech": "noun",
+      "definition": "Brave is a free and open-source web browser developed by Brave Software, Inc., based on the Chromium web browser. It has a built-in crypto wallet that allows users to connect to the web3 ecosystem. ",
+      "termCategory": "project or product"
+    },
+    "BTC": {
+      "term": "BTC",
+      "phonetic": "/ˈbiːˈtiːˈsiː/",
+      "partOfSpeech": "noun",
+      "definition": "Abbreviation for Bitcoin ",
+      "termCategory": "project or product"
+    },
+    "BTC (bitcoin)": {
+      "term": "BTC (bitcoin)",
+      "phonetic": "/ˈbiː tiː ˈsiː/ (/ˈbɪtkɔɪn/)",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Celo": {
+      "term": "Celo",
+      "phonetic": "/ˈsɛloʊ/",
+      "partOfSpeech": "noun",
+      "definition": "Celo is a platform designed to allow mobile users around the world to make simple financial transactions with cryptocurrency. The platform has its own blockchain and two native tokens: CELO and cUSD",
+      "termCategory": "project or product"
+    },
+    "Chrome": {
+      "term": "Chrome",
+      "phonetic": "/kroʊm/",
+      "partOfSpeech": "noun",
+      "definition": "Internet browser.",
+      "termCategory": "project or product"
+    },
+    "Codefi": {
+      "term": "Codefi",
+      "phonetic": "/ˈkoʊdɪfaɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Derived from “Commerce & Decentralized Finance”, Codefi was a part of Consensys Software Inc., responsible for developing finance use case blockchain products; name no longer in use.",
+      "termCategory": "project or product"
+    },
+    "Coinbase Pay": {
+      "term": "Coinbase Pay",
+      "phonetic": "/ˈkɔɪnbeɪs peɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Coinbase Pay is a payment feature that allows you to buy or transfer supported crypto on Coinbase.com directly from self-custody wallets (like MetaMask) and dapps.",
+      "termCategory": "project or product"
+    },
+    "CoinGecko": {
+      "term": "CoinGecko",
+      "phonetic": "/ˈkɔɪnˌɡɛkoʊ/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Compound": {
+      "term": "Compound",
+      "phonetic": "/ˈkɑmpaʊnd/",
+      "partOfSpeech": "noun",
+      "definition": "Compound is a decentralized, blockchain-based protocol that allows you to lend and borrow crypto — and have a say in its governance with its native COMP token.",
+      "termCategory": "project or product"
+    },
+    "CoolWallet": {
+      "term": "CoolWallet",
+      "phonetic": "/ˈkuːlˌwɔlɪt/",
+      "partOfSpeech": "noun",
+      "definition": "A crypto hardware wallet for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and ERC20 Token.",
+      "termCategory": "project or product"
+    },
+    "CryptoCompare": {
+      "term": "CryptoCompare",
+      "phonetic": "/ˈkrɪptoʊˌkɒmpær/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Curve": {
+      "term": "Curve",
+      "phonetic": "/kɜrv/",
+      "partOfSpeech": "noun",
+      "definition": "Curve is a decentralized exchange for stablecoins that uses an automated market maker (AMM) to manage liquidity.",
+      "termCategory": "project or product"
+    },
+    "D'CENT": {
+      "term": "D'CENT",
+      "phonetic": "/ˈdiːˈsɛnt/",
+      "partOfSpeech": "noun",
+      "definition": "Hardware wallet.",
+      "termCategory": "project or product"
+    },
+    "DAI": {
+      "term": "DAI",
+      "phonetic": "/daɪ/",
+      "partOfSpeech": "noun",
+      "definition": "DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.",
+      "termCategory": "project or product"
+    },
+    "Devcon": {
+      "term": "Devcon",
+      "phonetic": "/ˈdɛvkɒn/",
+      "partOfSpeech": "noun",
+      "definition": "This is shorthand for the Ethereum Developers’ Conference.",
+      "termCategory": "project or product"
+    },
+    "Diligence": {
+      "term": "Diligence",
+      "phonetic": "/ˈdɪlɪdʒəns/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "edge": {
+      "term": "edge",
+      "phonetic": "/ɛdʒ/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of 'Edge computing': it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time. The term can also refer to Microsoft's browser or the crypto software wallet",
+      "termCategory": "project or product"
+    },
+    "EEA": {
+      "term": "EEA",
+      "phonetic": "/ˈɛntərˌpraɪz ɪˈθiːriəm əˈlaɪəns/, /ˈiːˈiːˈeɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Ethereum Enterprise Allliance. A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications. Website here.",
+      "termCategory": "project or product"
+    },
+    "Ethereum": {
+      "term": "Ethereum",
+      "phonetic": "/ɪˈθiːriəm/",
+      "partOfSpeech": "noun",
+      "definition": "A public blockchain network and decentralized software platform upon which developers build and run applications. As it is a proper noun, it should always be capitalized.",
+      "termCategory": "project or product"
+    },
+    "Etherscan": {
+      "term": "Etherscan",
+      "phonetic": "/ˈɛðərˌskæn/",
+      "partOfSpeech": "noun",
+      "definition": "A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’. https://etherscan.io/ ",
+      "termCategory": "project or product"
+    },
+    "Fantom": {
+      "term": "Fantom",
+      "phonetic": "/ˈfæntəm/",
+      "partOfSpeech": "noun",
+      "definition": "Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements. One of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.",
+      "termCategory": "project or product"
+    },
+    "Firefox": {
+      "term": "Firefox",
+      "phonetic": "/ˈfaɪərˌfɒks/",
+      "partOfSpeech": "noun",
+      "definition": "Internet browser.",
+      "termCategory": "project or product"
+    },
+    "FTM": {
+      "term": "FTM",
+      "phonetic": "/ˈɛfˈtiːɛm/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Gas Station Network": {
+      "term": "Gas Station Network",
+      "phonetic": "/ɡæs ˈsteɪʃən ˈnɛtwɜrk/",
+      "partOfSpeech": "noun",
+      "definition": "The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience. However, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services. Originally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network ",
+      "termCategory": "project or product"
+    },
+    "Gitcoin": {
+      "term": "Gitcoin",
+      "phonetic": "/ˈɡɪtkɔɪn/",
+      "partOfSpeech": "noun",
+      "definition": "Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.",
+      "termCategory": "project or product"
+    },
+    "GitHub": {
+      "term": "GitHub",
+      "phonetic": "/ˈɡɪthʌb/",
+      "partOfSpeech": "noun",
+      "definition": "GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub ",
+      "termCategory": "project or product"
+    },
+    "Goerli": {
+      "term": "Goerli",
+      "phonetic": "/ˈɡɔrli/",
+      "partOfSpeech": "noun",
+      "definition": "Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc). ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.",
+      "termCategory": "project or product"
+    },
+    "GSN": {
+      "term": "GSN",
+      "phonetic": "/ˈdʒiːˈɛsˈɛn/",
+      "partOfSpeech": "noun",
+      "definition": "Abbreviation for Gas Station Network",
+      "termCategory": "project or product"
+    },
+    "Harmony": {
+      "term": "Harmony",
+      "phonetic": "/ˈhɑːrməni/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "IBC": {
+      "term": "IBC",
+      "phonetic": "/ˌɪntərˈblɒkˌtʃeɪn kəˈmjunɪˌkeɪʃən ˈproʊtəkɒl/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Inter-Blockchain Communication (IBC) is a communication protocol that allows different blockchains to relay messages to each other. It guarantees reliable, ordered and authenticated communication between the chains. Blockchains can trustlessly exchange value like tokens. IBC does not work like a bridge. Instead, blockchains send packets of information via smart contracts that allow them to not only exchange value but relay any form of data, such as communication, via the communication protocol.  Inter-Blockchain Communication (IBC) ",
+      "termCategory": "project or product"
+    },
+    "IPFS": {
+      "term": "IPFS",
+      "phonetic": "/ˌaɪˈpiːˈɛfˈɛs/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; InterPlanetary File System. A decentralized file storage and referencing system for the Ethereum blockchain, and the internet as a whole. IFPS is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.",
+      "termCategory": "project or product"
+    },
+    "Kovan": {
+      "term": "Kovan",
+      "phonetic": "/ˈtɛstˌnɛt ˈkoʊvən/",
+      "partOfSpeech": "noun",
+      "definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; website here.",
+      "termCategory": "project or product"
+    },
+    "Lattice1": {
+      "term": "Lattice1",
+      "phonetic": "/ˈlætɪs wʌn/",
+      "partOfSpeech": "noun",
+      "definition": "The Lattice1 is a powerful, secure, and user-friendly hardware wallet that allows you to manage an unlimited number of wallets and easily transact on the blockchain.",
+      "termCategory": "project or product"
+    },
+    "Launchpad": {
+      "term": "Launchpad",
+      "phonetic": "/ˈlɔːntʃˌpæd/",
+      "partOfSpeech": "noun",
+      "definition": "The Launchpad is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum. Ethereum Launchpad ",
+      "termCategory": "project or product"
+    },
+    "ledger": {
+      "term": "ledger",
+      "phonetic": "/ˈlɛdʒər/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Ledger Live": {
+      "term": "Ledger Live",
+      "phonetic": "/ˈlɛdʒər laɪv/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Ledger Live App": {
+      "term": "Ledger Live App",
+      "phonetic": "/ˈlɛdʒər laɪv æp/",
+      "partOfSpeech": "noun",
+      "definition": "Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue. The app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process. Ledger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.",
+      "termCategory": "project or product"
+    },
+    "Lido": {
+      "term": "Lido",
+      "phonetic": "/ˈliːdoʊ/",
+      "partOfSpeech": "noun",
+      "definition": "Lido is a liquid staking protocol for Ethereum that allows users with less than 32 ETH to collectively fund new validators and receive rewards. ",
+      "termCategory": "project or product"
+    },
+    "Lightning Network": {
+      "term": "Lightning Network",
+      "phonetic": "/ˈlaɪtnɪŋ ˈnɛtwɜrk/",
+      "partOfSpeech": "noun",
+      "definition": "The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently. This layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.",
+      "termCategory": "project or product"
+    },
+    "Maker Protocol": {
+      "term": "Maker Protocol",
+      "phonetic": "/ˈmeɪkər ˈproʊtəkɒl/",
+      "partOfSpeech": "noun",
+      "definition": "The Maker Protocol, built on the Ethereum blockchain, enables users to create and hold currency. Current elements of the Maker Protocol are the DAI stable coin, Maker Vaults, and Voting. MakerDAO governs the Maker Protocol by deciding on key parameters (e.g., stability fees, collateral types and rates, etc.)",
+      "termCategory": "project or product"
+    },
+    "MATIC": {
+      "term": "MATIC",
+      "phonetic": "/ˈmætɪk/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "Mercuryo": {
+      "term": "Mercuryo",
+      "phonetic": "/mɜrˈkjʊrioʊ/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "MobiKwik": {
+      "term": "MobiKwik",
+      "phonetic": "/ˈmoʊbiˌkwɪk/",
+      "partOfSpeech": "noun",
+      "definition": "MobiKwik is an Indian payment service provider founded in 2009 that provides a mobile phone-based payment system and digital wallet.",
+      "termCategory": "project or product"
+    },
+    "MoonPay": {
+      "term": "MoonPay",
+      "phonetic": "/ˈmuːnˌpeɪ/",
+      "partOfSpeech": "noun",
+      "definition": "MoonPay is a financial technology company that builds payments infrastructure for crypto. Its on-and-off-ramp suite of products provides a seamless experience for converting between fiat currencies and cryptocurrencies using all major payment methods, including debit and credit cards, local bank transfers, Apple Pay, Google Pay, and Samsung Pay. MoonPay is active in more than 160 countries and is trusted by 300+ leading wallets, websites, and applications to accept payments and defeat fraud. The company is based in Miami, Florida, and was founded in 2019.",
+      "termCategory": "project or product"
+    },
+    "Ngrave": {
+      "term": "Ngrave",
+      "phonetic": "/ˈɛnɡreɪv/",
+      "partOfSpeech": "noun",
+      "definition": "Crypto hardware wallet.",
+      "termCategory": "project or product"
+    },
+    "ONE": {
+      "term": "ONE",
+      "phonetic": "/wʌn/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "OpenSea": {
+      "term": "OpenSea",
+      "phonetic": "/ˈoʊpənˌsiː/",
+      "partOfSpeech": "noun",
+      "definition": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.",
+      "termCategory": "project or product"
+    },
+    "Opera": {
+      "term": "Opera",
+      "phonetic": "/ˈɒpərə/",
+      "partOfSpeech": "noun",
+      "definition": "Internet browser.",
+      "termCategory": "project or product"
+    },
+    "Optimism": {
+      "term": "Optimism",
+      "phonetic": "/ɒpˈtɪmɪzəm/",
+      "partOfSpeech": "noun",
+      "definition": "Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network. In optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.",
+      "termCategory": "project or product"
+    },
+    "Oracle": {
+      "term": "Oracle",
+      "phonetic": "/ˈɔrəkəl/",
+      "partOfSpeech": "noun",
+      "definition": "Typically, an oracle is any entity or person that is relied on to report the outcome of an event. In a blockchain network an oracle (human or machine) helps communicate data to a smart contract, which can then be used to verify an event or specific outcome.",
+      "termCategory": "project or product"
+    },
+    "Palm": {
+      "term": "Palm",
+      "phonetic": "/pɑːm/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "PALM": {
+      "term": "PALM",
+      "phonetic": "/pɑːm/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "project or product"
+    },
+    "ParaSwap": {
+      "term": "ParaSwap",
+      "phonetic": "/ˈpærəswɒp/",
+      "partOfSpeech": "noun",
+      "definition": "ParaSwap is a decentralized exchange (DEX) aggregator that optimizes swaps for users through better prices, limited gas fees, and lower slippage. ParaSwap sources their liquidity from major DEXes such as Uniswap, Balancer, Curve, Kyber, in addition to ParaSwapPool, their professional Market Maker network.",
+      "termCategory": "project or product"
+    },
+    "PayPal": {
+      "term": "PayPal",
+      "phonetic": "/ˈpeɪˌpæl/",
+      "partOfSpeech": "noun",
+      "definition": "PayPal is a multinational financial technology company operating an online payments system in the majority of countries.",
+      "termCategory": "project or product"
+    },
+    "Plasma": {
+      "term": "Plasma",
+      "phonetic": "/ˈplæzmə/",
+      "partOfSpeech": "noun",
+      "definition": "Plasma' is a term that is used to refer to one of the solutions being built and deployed in order to securely scale the Ethereum network. A Plasma network functions similarly to an optimistic rollup, inasmuch as it relies on Ethereum Mainnet to maintain the record of transactions, and as the source for arbitration or fraud resolution. However, a Plasma network differs in other important technical ways from rollups, and is currently limited to simple operations, such as swaps and token transfers. More technical information is available here.",
+      "termCategory": "project or product"
+    },
+    "Polygon": {
+      "term": "Polygon",
+      "phonetic": "/ˈpɒlɪɡɒn/",
+      "partOfSpeech": "noun",
+      "definition": "Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network. Polygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called 'Polygon chains' or 'commit chains'.",
+      "termCategory": "project or product"
+    },
+    "Rarible": {
+      "term": "Rarible",
+      "phonetic": "/ˈrɛrəbl/",
+      "partOfSpeech": "noun",
+      "definition": "An NFT marketplace.",
+      "termCategory": "project or product"
+    },
+    "Rinkeby": {
+      "term": "Rinkeby",
+      "phonetic": "/ˈrɪŋkəbi/",
+      "partOfSpeech": "noun",
+      "definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
+      "termCategory": "project or product"
+    },
+    "Rocket Pool": {
+      "term": "Rocket Pool",
+      "phonetic": "/ˈrɒkɪt puːl/",
+      "partOfSpeech": "noun",
+      "definition": "Rocket Pool is a decentralized Ethereum staking pool.",
+      "termCategory": "project or product"
+    },
+    "Ropsten": {
+      "term": "Ropsten",
+      "phonetic": "/ˈrɒpstən/",
+      "partOfSpeech": "noun",
+      "definition": "An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.",
+      "termCategory": "project or product"
+    },
+    "Safeheron": {
+      "term": "Safeheron",
+      "phonetic": "/ˈseɪfˌhɛrən/",
+      "partOfSpeech": "noun",
+      "definition": "Safeheron is an open-source platform for managing digital assets.",
+      "termCategory": "project or product"
+    },
+    "Samsung Pay": {
+      "term": "Samsung Pay",
+      "phonetic": "/ˈsæmsʌŋ peɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Samsung Pay is a mobile payment and digital wallet service that lets users make payments using compatible phones and other Samsung-produced devices.",
+      "termCategory": "project or product"
+    },
+    "Sardine": {
+      "term": "Sardine",
+      "phonetic": "/ˈsɑːdiːn/",
+      "partOfSpeech": "noun",
+      "definition": "Sardine is an instant fiat and crypto settlement platform.",
+      "termCategory": "project or product"
+    },
+    "Sepolia": {
+      "term": "Sepolia",
+      "phonetic": "/sɛˈpoʊliə/",
+      "partOfSpeech": "noun",
+      "definition": "Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc). ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet",
+      "termCategory": "project or product"
+    },
+    "Solidity": {
+      "term": "Solidity",
+      "phonetic": "/ˈsɒlɪdɪti/",
+      "partOfSpeech": "noun",
+      "definition": "The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity ",
+      "termCategory": "project or product"
+    },
+    "Transak": {
+      "term": "Transak",
+      "phonetic": "/ˈtrænsæk/",
+      "partOfSpeech": "noun",
+      "definition": "Transak is a developer integration toolkit to let users buy/sell crypto in any app, website or web plugin. ",
+      "termCategory": "project or product"
+    },
+    "Trezor": {
+      "term": "Trezor",
+      "phonetic": "/ˈtrɛzər/",
+      "partOfSpeech": "noun",
+      "definition": "Hardware wallet.",
+      "termCategory": "project or product"
+    },
+    "Uniswap": {
+      "term": "Uniswap",
+      "phonetic": "/ˈjuːnɪswɒp/",
+      "partOfSpeech": "noun",
+      "definition": "Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades on its exchange.",
+      "termCategory": "project or product"
+    },
+    "validium": {
+      "term": "validium",
+      "phonetic": "/vəˈlɪdiəm/",
+      "partOfSpeech": "noun",
+      "definition": "One of the technologies developed for scaling of the Ethereum network; see more here.",
+      "termCategory": "project or product"
+    },
+    "WalletConnect": {
+      "term": "WalletConnect",
+      "phonetic": "/ˈwɒlɪtˌkənɛkt/",
+      "partOfSpeech": "noun",
+      "definition": "WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.",
+      "termCategory": "project or product"
+    },
+    "WebSocket": {
+      "term": "WebSocket",
+      "phonetic": "/ˈwɛbˌsɒkɪt/",
+      "partOfSpeech": "noun",
+      "definition": "WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. It's often used by dapps to regularly fetch up-to-date information from the blockchain.",
+      "termCategory": "project or product"
+    },
+    "Wyre": {
+      "term": "Wyre",
+      "phonetic": "/ˈwaɪər/",
+      "partOfSpeech": "noun",
+      "definition": "Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013. Wyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies. It serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.",
+      "termCategory": "project or product"
+    },
+    "ACH transfer": {
+      "term": "ACH transfer",
+      "phonetic": "/ˈeɪ.siːˈeɪtʃ ˈtrænsfər/",
+      "partOfSpeech": "noun",
+      "definition": "ACH (Automated Clearing House) bank transfer is an electronic payment method that allows money to be transferred between bank accounts in the United States. It is a system that processes transactions in batches and is commonly used for direct deposit of paychecks, bill payments, and online money transfers.",
+      "termCategory": "financial term"
+    },
+    "AML": {
+      "term": "AML",
+      "phonetic": "/ˈænti ˈmʌni ˈlɔndərɪŋ/, /ˈeɪˌɛmˈɛl/",
+      "partOfSpeech": "noun",
+      "definition": "Acronym; Anti-Money Laundering. A set of international laws enacted to diminish the potential for criminal organizations or individuals to launder money. These rules and laws are applied to cryptocurrencies with varying effects in different jurisdictions.",
+      "termCategory": "financial term"
+    },
+    "custody": {
+      "term": "custody",
+      "phonetic": "/ˈkʌstədi/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access. Crypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.",
+      "termCategory": "financial term"
+    },
+    "deposit": {
+      "term": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "partOfSpeech": "noun",
+      "definition": "In most web3 contexts, 'depositing' refers to the act of transferring some amount of token(s) to an address other than one's own, most often to a smart contract controlled by a 'protocol', such as a decentralized exchange, video game or multiverse, DAO, etc. Generally, the user will receive something in return for their deposit, and the deposit can be claimed at the user's discretion, or upon completion of given conditions. Compare with 'stake'.",
+      "termCategory": "financial term"
+    },
+    "digital asset": {
+      "term": "digital asset",
+      "phonetic": "/ˈdɪdʒɪtəl ˈæsɛt/",
+      "partOfSpeech": "noun",
+      "definition": "A digital commodity that is scarce, electronically transferable, and intangible with a market value.",
+      "termCategory": "financial term"
+    },
+    "EUR": {
+      "term": "EUR",
+      "phonetic": "/ˈjʊəroʊ/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "financial term"
+    },
+    "fiat currency": {
+      "term": "fiat currency",
+      "phonetic": "/ˈfiːæt ˈkʌrənsi/",
+      "partOfSpeech": "noun",
+      "definition": "Government-issued currency. For example, US Dollars (USD), Euros (EUR), Yuan (CNY), and Yen (JPY).",
+      "termCategory": "financial term"
+    },
+    "fintech": {
+      "term": "fintech",
+      "phonetic": "/ˈfɪntɛk/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "financial term"
+    },
+    "GBP": {
+      "term": "GBP",
+      "phonetic": "/ˈdʒiːˈpiːˈiːˈbiː/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "financial term"
+    },
+    "insider trading": {
+      "term": "insider trading",
+      "phonetic": "/ˈɪnsaɪdər ˈtreɪdɪŋ/",
+      "partOfSpeech": "noun",
+      "definition": "Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading ",
+      "termCategory": "financial term"
+    },
+    "IPO": {
+      "term": "IPO",
+      "phonetic": "/ˈɪnɪʃəl ˈpʌblɪk ˈɒfərɪŋ/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; An initial public offering (IPO) is the process of a company offering shares for purchase on the stock market for the first time.  IPO ",
+      "termCategory": "financial term"
+    },
+    "liquidation": {
+      "term": "liquidation",
+      "phonetic": "/ˌlɪkwɪˈdeɪʃən/",
+      "partOfSpeech": "noun",
+      "definition": "Liquidation happens when a trader has insufficient funds to keep a leveraged trade open. Liquidation ",
+      "termCategory": "financial term"
+    },
+    "liquidity": {
+      "term": "liquidity",
+      "phonetic": "/lɪˈkwɪdɪti/",
+      "partOfSpeech": "noun",
+      "definition": "An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.",
+      "termCategory": "financial term"
+    },
+    "market cap": {
+      "term": "market cap",
+      "phonetic": "/ˈmɑrkɪt kæp/",
+      "partOfSpeech": "noun",
+      "definition": "Short for 'market capitalization', this refers to the total value held in a particular industry, market, company, or asset. For a publicly traded company, the market cap is the total dollar market value of a company's outstanding shares. For Bitcoin or Ethereum, the total market cap is a reflection of the current existing supply times the market price.",
+      "termCategory": "financial term"
+    },
+    "scam": {
+      "term": "scam",
+      "phonetic": "/skæm/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "financial term"
+    },
+    "security token": {
+      "term": "security token",
+      "phonetic": "/ˈsɪkjʊrɪti toʊkən/",
+      "partOfSpeech": "noun",
+      "definition": "A security token is essentially a digital form of traditional securities. There are three primary types of traditional securities: equities, debt and a hybrid of debt and equity. Examples of securities include stocks, bonds, ETFs, options and futures. Hypothetically, any of these things can be tokenized to become a security token. It is possible that in the near future, security tokens could serve as a very viable alternative and competitor to stocks and other traditional securities. Security Token ",
+      "termCategory": "financial term"
+    },
+    "STO": {
+      "term": "STO",
+      "phonetic": "/ˈsɪkjʊrɪti toʊkən ˈɒfərɪŋ/, /ˌɛs ˈtiː ˈoʊ/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; a Security Token Offering (STO) is a form of initial coin offering (ICO) where a company or organization issues a security token that is backed by a tangible asset, such as real estate, technology or other assets. The security token represents the right to ownership of the underlying asset, with the tokens being tradeable on a compliant digital asset exchange. Security Token Offering ",
+      "termCategory": "financial term"
+    },
+    "USD": {
+      "term": "USD",
+      "phonetic": "/ˈjuːˌɛsˈdiː/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; United States Dollar (fiat currency).",
+      "termCategory": "financial term"
+    },
+    "vesting": {
+      "term": "vesting",
+      "phonetic": "/ˈvɛstɪŋ/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of 'vesting period': The act of restricting the sale of a token for a particular period of time. Vesting period ",
+      "termCategory": "financial term"
+    },
+    "Know Your Customer (KYC)": {
+      "term": "Know Your Customer (KYC)",
+      "phonetic": "/ˈnoʊ jʊər ˈkʌstəmər/; /ˈkaɪs/",
+      "partOfSpeech": "noun",
+      "definition": "A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.",
+      "termCategory": "legal term"
+    },
+    "Know Your Transaction": {
+      "term": "Know Your Transaction",
+      "phonetic": "/ˈnoʊ jʊər ˈtrænˈzækʃən/",
+      "partOfSpeech": "noun",
+      "definition": "Know Your Transaction (KYT) is a process employed by financial institutions to monitor the merchants' businesses through the analysis of transaction data.",
+      "termCategory": "legal term"
+    },
+    "KYC": {
+      "term": "KYC",
+      "phonetic": "/ˈkeɪ ˈwaɪ ˈsiː/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; see 'Know Your Customer'.",
+      "termCategory": "legal term"
+    },
+    "KYT": {
+      "term": "KYT",
+      "phonetic": "/ˈkeɪ ˈwaɪ ˈtiː/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; see 'Know Your Transaction'.",
+      "termCategory": "legal term"
+    },
+    "roadmap": {
+      "term": "roadmap",
+      "phonetic": "/ˈroʊdmæp/",
+      "partOfSpeech": "noun",
+      "definition": "A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.",
+      "termCategory": "legal term"
+    },
+    "2FA": {
+      "term": "2FA",
+      "phonetic": "/ˈtuː ˈfæktər ɔːˈθɛntɪˌkeɪʃən/, /ˈtuː ˈɛf ˈeɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Abbreviation; two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also 'U2F' When 2FA A",
+      "termCategory": "software term"
+    },
+    "algorithm": {
+      "term": "algorithm",
+      "phonetic": "/ˈælɡəˌrɪðəm/",
+      "partOfSpeech": "noun",
+      "definition": "An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation. ",
+      "termCategory": "software term"
+    },
+    "API": {
+      "term": "API",
+      "phonetic": "/ˈæplɪˌkeɪʃən ˈproʊɡræmɪŋ ˈɪntərˌfeɪs/, /ˈeɪ.pi.aɪ/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Application Programming Interface. A predefined set of requests that one program can make to another in order to transfer information between them. When you hear someone saying that an application is 'getting information from' another source, it's often doing so through an API.",
+      "termCategory": "software term"
+    },
+    "ASIC": {
+      "term": "ASIC",
+      "phonetic": "/ˈæplɪˌkeɪʃən spəˈsɪfɪk ˈɪntɪˌgreɪtɪd ˈsɜrkɪt/, /ˈeɪˌsɪk/",
+      "partOfSpeech": "noun",
+      "definition": "Acronym; Application Specific Integrated Circuit. ASICs are silicon chips designed to do a specific task. In ASICs used for mining cryptocurrencies, the ASIC will perform a calculation to find values that provide a desired solution when placed into a hashing algorithm.",
+      "termCategory": "software term"
+    },
+    "bounty": {
+      "term": "bounty",
+      "phonetic": "/ˈbaʊnti/ /bʌɡ ˈbaʊnti/",
+      "partOfSpeech": "noun",
+      "definition": "A reward offered for exposing vulnerabilities and issues in computer code. For this reason, often referred to as a \"bug bounty\".",
+      "termCategory": "software term"
+    },
+    "bytecode": {
+      "term": "bytecode",
+      "phonetic": "/ˈbaɪtkoʊd/",
+      "partOfSpeech": "noun",
+      "definition": "Bytecode is a 'low-level' computer language, that is, meant to be processed by a computer, rather than a 'high-level', more human-readable, language. In Ethereum, higher-level Solidity is compiled into Ethereum bytecode, which is read by the Ethereum Virtual Machine (EVM).",
+      "termCategory": "software term"
+    },
+    "Byzantine fault tolerance": {
+      "term": "Byzantine fault tolerance",
+      "phonetic": "/bɪˈzæn.tiːn fɔːlt ˈtɒlərəns/",
+      "partOfSpeech": "noun",
+      "definition": "A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.",
+      "termCategory": "software term"
+    },
+    "compile": {
+      "term": "compile",
+      "phonetic": "/ˈkɑmpaɪlɪŋ/",
+      "partOfSpeech": "verb",
+      "definition": "There are many languages in computing and software programming. In general, 'low-level' languages are those actually processed by the computer's operating system or processor, while 'high-level' languages are those typed in by software developers making programs. Compiling, then, is converting code written in a high-level programming language (e.g., Solidity) into a lower-level language (e.g., EVM bytecode).",
+      "termCategory": "software term"
+    },
+    "DDoS": {
+      "term": "DDoS",
+      "phonetic": "/dɪˈstrɪbjʊtɪd dɪˈnaɪəl əv ˈsɜrvɪs əˈtæk/",
+      "partOfSpeech": "noun",
+      "definition": "initialism; Distributed Denial of Service attack. A type of cyber-attack in which the perpetrator continuously overwhelms the system with requests in order to prevent service of legitimate requests.",
+      "termCategory": "software term"
+    },
+    "dev": {
+      "term": "dev",
+      "phonetic": "/dɛv/",
+      "partOfSpeech": "noun",
+      "definition": "Abbreviation of developer.",
+      "termCategory": "software term"
+    },
+    "developer": {
+      "term": "developer",
+      "phonetic": "/dɪˈvɛləpər/",
+      "partOfSpeech": "noun",
+      "definition": "A person that creates new products, especially computer products such as software.",
+      "termCategory": "software term"
+    },
+    "encryption": {
+      "term": "encryption",
+      "phonetic": "/ɛnˈkrɪpʃən/",
+      "partOfSpeech": "noun",
+      "definition": "Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.",
+      "termCategory": "software term"
+    },
+    "entropy": {
+      "term": "entropy",
+      "phonetic": "/ˈɛntrəpi/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of cryptography, 'entropy' refers to 'randomness'; generally, the more random something is (the more entropy it has), the more secure it is.",
+      "termCategory": "software term"
+    },
+    "firewall": {
+      "term": "firewall",
+      "phonetic": "/ˈfaɪərˌwɔl/",
+      "partOfSpeech": "noun",
+      "definition": "In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.",
+      "termCategory": "software term"
+    },
+    "firmware": {
+      "term": "firmware",
+      "phonetic": "/ˈfɜrmwɛər/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "software term"
+    },
+    "hexadecimal": {
+      "term": "hexadecimal",
+      "phonetic": "/ˌhɛksəˈdɛsɪməl/; /ˈhɛks ˈdeɪtə/",
+      "partOfSpeech": "noun",
+      "definition": "Hexadecimal is a base 16, rather than base 10, counting system. Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers 0 1 2 3 4 5 6 7 8 9 and letters A B C D E F. Commonly referred to with the elliptical 'hex data'.",
+      "termCategory": "software term"
+    },
+    "IP address": {
+      "term": "IP address",
+      "phonetic": "/ˈaɪˈpiː ˈædrɛs/",
+      "partOfSpeech": "noun",
+      "definition": "A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.",
+      "termCategory": "software term"
+    },
+    "JSON-RPC": {
+      "term": "JSON-RPC",
+      "phonetic": "/ˈdʒeɪsən-ˈɑrˈpiːˈsiː/",
+      "partOfSpeech": "noun",
+      "definition": "JSON-RPC is, quite simply, a method used to move data around computer systems, and predates public blockchain technology. It was chosen as a standard for moving data between blockchain networks and Internet browsers and wallets, with the result that these networks have come to be called 'RPC networks', despite JSON-RPC not being their defining technical feature.",
+      "termCategory": "software term"
+    },
+    "keystore file": {
+      "term": "keystore file",
+      "phonetic": "/ˈkiːstɔr faɪl/",
+      "partOfSpeech": "noun",
+      "definition": "A keystore file is a special, encrypted version of a private key in JSON format. See also 'private key'.",
+      "termCategory": "software term"
+    },
+    "latency": {
+      "term": "latency",
+      "phonetic": "/ˈleɪtənsi/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of Network latency:  refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency ",
+      "termCategory": "software term"
+    },
+    "library": {
+      "term": "library",
+      "phonetic": "/ˈlaɪbrəri/",
+      "partOfSpeech": "noun",
+      "definition": "A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library ",
+      "termCategory": "software term"
+    },
+    "light client": {
+      "term": "light client",
+      "phonetic": "/laɪt ˈklaɪənt/",
+      "partOfSpeech": "noun",
+      "definition": "In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.",
+      "termCategory": "software term"
+    },
+    "malware": {
+      "term": "malware",
+      "phonetic": "/ˈmælwɛər/",
+      "partOfSpeech": "noun",
+      "definition": "Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.",
+      "termCategory": "software term"
+    },
+    "metadata": {
+      "term": "metadata",
+      "phonetic": "/ˈmɛtəˌdeɪtə/",
+      "partOfSpeech": "noun",
+      "definition": "In the context of 'NFT metadata': Metadata is 'data that provides information about other data' Metadata ",
+      "termCategory": "software term"
+    },
+    "metaverse": {
+      "term": "metaverse",
+      "phonetic": "/ˈmɛtəˌvɜrs/",
+      "partOfSpeech": "noun",
+      "definition": "A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse ",
+      "termCategory": "software term"
+    },
+    "MFA": {
+      "term": "MFA",
+      "phonetic": "/ˈmʌltiˌfæktər ɔːˈθɛntɪˌkeɪʃən/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Multi-Factor Authentication refers to using two or more different factors to achieve authentication, ie, confirmation of credentials, e.g., to log into a website or app.",
+      "termCategory": "software term"
+    },
+    "NFC": {
+      "term": "NFC",
+      "phonetic": "/ˈnɪərˈfiːld ˌkəˌmjunɪˈkeɪʃən/, /ˈɛn ˈɛf ˈsiː/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Near-Field Communication is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. NFC offers a low-speed connection through a simple setup that can be used to bootstrap more capable wireless connections..",
+      "termCategory": "software term"
+    },
+    "P2P": {
+      "term": "P2P",
+      "phonetic": "/ˌpɪər tə ˈpɪər/, /ˌpiː ˈtuː ˈpiː/",
+      "partOfSpeech": "adjective",
+      "definition": "Abbreviation; Peer-to-peer. P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.",
+      "termCategory": "software term"
+    },
+    "parity": {
+      "term": "parity",
+      "phonetic": "/ˈpærɪti/",
+      "partOfSpeech": "noun",
+      "definition": "In a general sense, to say that something 'has parity' with another thing means 'equal in features or other important quality', and is a phrase often used by software developers and computer scientists.",
+      "termCategory": "software term"
+    },
+    "password": {
+      "term": "password",
+      "phonetic": "/ˈpæswɜrd/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "software term"
+    },
+    "password manager": {
+      "term": "password manager",
+      "phonetic": "/ˈpæswɜrd ˈmænɪdʒər/",
+      "partOfSpeech": "noun",
+      "definition": "A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.\r\nPassword manager ",
+      "termCategory": "software term"
+    },
+    "phishing": {
+      "term": "phishing",
+      "phonetic": "/ˈfɪʃɪŋ/",
+      "partOfSpeech": "verb",
+      "definition": "Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware. ",
+      "termCategory": "software term"
+    },
+    "QR code": {
+      "term": "QR code",
+      "phonetic": "/ˌkjuː ˈɑːr ˈkoʊd/",
+      "partOfSpeech": "noun",
+      "definition": "A QR code is a type of matrix barcode, constituting a machine-readable optical label that can contain information about the item to which it is attached. ",
+      "termCategory": "software term"
+    },
+    "RPC": {
+      "term": "RPC",
+      "phonetic": "/ˈriːmoʊt prəˈsiːdʒər kɔːl/, /ˌɑːr ˈpiː ˈsiː/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see ‘JSON-RPC’ for further details.",
+      "termCategory": "software term"
+    },
+    "sandbox": {
+      "term": "sandbox",
+      "phonetic": "/ˈsændbɒks/",
+      "partOfSpeech": "noun",
+      "definition": "A testing environment in a computer system in which new or untested software or coding can be run securely.",
+      "termCategory": "software term"
+    },
+    "SDK": {
+      "term": "SDK",
+      "phonetic": "/ˌɛs ˈdiː ˈkeɪ/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "software term"
+    },
+    "search engine": {
+      "term": "search engine",
+      "phonetic": "/ˈsɜrtʃ ˈɛndʒɪn/",
+      "partOfSpeech": "noun",
+      "definition": "",
+      "termCategory": "software term"
+    },
+    "Turing-complete": {
+      "term": "Turing-complete",
+      "phonetic": "/ˈtjʊərɪŋ kəmˈpliːt/",
+      "partOfSpeech": "adjective",
+      "definition": "Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.",
+      "termCategory": "software term"
+    },
+    "U2F": {
+      "term": "U2F",
+      "phonetic": "/juː ˈtuː ˈɛf/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Universal 2nd Factor (U2F) is an open standard that strengthens and simplifies two-factor authentication (2FA) using specialized Universal Serial Bus (USB) or near-field communication (NFC) devices based on similar security technology found in smart cards",
+      "termCategory": "software term"
+    },
+    "upgrade": {
+      "term": "upgrade",
+      "phonetic": "/ˈʌpɡreɪd/",
+      "partOfSpeech": "noun",
+      "definition": "Upgrading is the process of replacing a product with a newer version of the same product. In computing and consumer electronics, an upgrade is generally a replacement of hardware, software, or firmware with a newer or better version, in order to bring the system up to date or to improve its characteristics. See also EIP-1159, merge, and  other important Ethereum upgrades",
+      "termCategory": "software term"
+    },
+    "URL": {
+      "term": "URL",
+      "phonetic": "/ˈjuːˌɑːrˈɛl/",
+      "partOfSpeech": "noun",
+      "definition": "Initialism; Uniform Resource Locator. A format used to consistently identify and route a user to a specific computer-hosted resource, most commonly known as the format for web sites, apps, files, or anything else hosted and accessible on the Internet.",
+      "termCategory": "software term"
+    },
+    "WebHID": {
+      "term": "WebHID",
+      "phonetic": "/ˈwɛbˌhaɪd/",
+      "partOfSpeech": "noun",
+      "definition": "WebHID (Human Interface Device) Enables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web",
+      "termCategory": "software term"
+    },
+    "whitepaper": {
+      "term": "whitepaper",
+      "phonetic": "/ˈwaɪtpˌeɪpər/",
+      "partOfSpeech": "noun",
+      "definition": "Whitepapers explain the purpose and technology behind a project.",
+      "termCategory": "software term"
+    }
+  }
+}
