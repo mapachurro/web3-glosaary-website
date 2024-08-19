@@ -2,14 +2,14 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
-const Navbar = ({ onLogoClick }) => {
-  const navigate = useNavigate();
+function Navbar({ onLogoClick }) {
+  // const navigate = useNavigate();
   const { i18n } = useTranslation();
 
-  const handleLogoClick = () => {
-    onLogoClick(); // Clear search history
-    navigate('/');
-  };
+  // const handleLogoClick = () => {
+  //   onLogoClick(); // Clear search history
+  //   navigate('/');
+  // };
 
   const handleLanguageChange = (e) => {
     i18n.changeLanguage(e.target.value);
@@ -17,8 +17,8 @@ const Navbar = ({ onLogoClick }) => {
 
   return (
     <nav style={styles.navbar}>
-      <div onClick={handleLogoClick} style={styles.logo}>
-        <img src="./education-dao-circle.png" alt="Logo" style={styles.logoImage} />
+      <div onClick={onLogoClick} style={{cursor: 'pointer'}}>
+        <img src="/src/components/education-dao-circle.png" alt="Logo" style={styles.logoImage} />
         Education DAO Glossary
       </div>
       <select onChange={handleLanguageChange} value={i18n.language} style={styles.languageSelector}>

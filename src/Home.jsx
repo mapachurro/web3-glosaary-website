@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Search from './components/Search';
+import Search from './components/Search'; // Ensure Search is imported
 import index from './searchIndex';
 import terms from './terms.json';
 import { useTranslation } from 'react-i18next';
 
-function Home({ onSearch }) {
+function Home() {
   const [searchResults, setSearchResults] = useState([]);
   const navigate = useNavigate();
   const { t } = useTranslation();

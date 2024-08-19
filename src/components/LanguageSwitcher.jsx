@@ -1,13 +1,23 @@
 // src/components/LanguageSwitcher.jsx
 
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
-const LanguageSwitcher = () => {
+function LanguageSwitcher() {
   const { i18n } = useTranslation();
+  const navigate = useNavigate();
 
-  const handleLanguageChange = (e) => {
-    i18n.changeLanguage(e.target.value);
+  const handleLanguageChange = (event) => {
+    const selectedLanguage = event.target.value;
+    i18n.changeLanguage(selectedLanguage);
+
+    // Update the URL with the new language
+    const currentPath = window.location.pathname;
+    const newPath = `/${selectedLanguage}${currentPath}`;
+
+    // Navigate to the new path with the selected language
+    navigate(newPath);
   };
 
   return (
