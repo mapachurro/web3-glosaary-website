@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'serve' ? '/' : '/web3-glossary-website/', // Use the correct base URL depending on the environment
+    base: command === 'serve' ? '/' : '/web3-glossary-website/', // Use the correct base URL
     plugins: [react()],
     resolve: {
       alias: {

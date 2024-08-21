@@ -31,7 +31,7 @@ function Home() {
         {searchResults.map((result) => (
           <li
             key={result.term}
-            onClick={() => navigate(`/term/${encodeURIComponent(result.term)}`)}
+            onClick={() => navigate(`/${i18n.language}/term/${encodeURIComponent(result.term)}`)}
             style={{
               cursor: allTerms.includes(result.term) ? 'pointer' : 'default',
             }}
