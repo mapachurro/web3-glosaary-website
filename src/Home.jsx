@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Search from './components/Search'; // Ensure Search is imported
+import Search from './components/Search';
 import index from './searchIndex';
 import terms from './terms.json';
 import { useTranslation } from 'react-i18next';
@@ -8,17 +8,20 @@ import { useTranslation } from 'react-i18next';
 function Home() {
   const [searchResults, setSearchResults] = useState([]);
   const navigate = useNavigate();
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const handleSearch = (query) => {
     console.log('Searching for:', query);
     const results = index.search(query);
-    console.log('Search results:', results);
     const formattedResults = results.map((result) => ({
       term: result.ref,
     }));
     setSearchResults(formattedResults);
-    console.log('Updated searchResults:', formattedResults);
+  };
+
+  const handleClick = (term) => {
+    console.log(`You clicked on: ${term} in ${i18n.language}`);
+    navigate(`/${i18n.language}/term/${encodeURIComponent(term)}`);
   };
 
   const allTerms = Object.keys(terms[0].terms);
@@ -31,12 +34,12 @@ function Home() {
         {searchResults.map((result) => (
           <li
             key={result.term}
-            onClick={() => navigate(`/${i18n.language}/term/${encodeURIComponent(result.term)}`)}
+            onClick={() => handleClick(result.term)}
             style={{
               cursor: allTerms.includes(result.term) ? 'pointer' : 'default',
             }}
           >
-            {result.term}
+            {t(result.term)} {/* Use t() to translate term if needed */}
           </li>
         ))}
       </ul>

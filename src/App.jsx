@@ -15,12 +15,12 @@ function App() {
   return (
     <div>
       <Navbar onLogoClick={onLogoClick} />
-      <Routes>
-        <Route path="/" element={<Navigate to="/:locale" replace />} />
-        <Route path="/:locale" element={<Home />} />
-        <Route path="/:locale/term/:termKey" element={<EntryPage />} />
-        {/* Add other routes here */}
-      </Routes>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/:locale" element={<Home />} />
+          <Route path="/:locale/term/:termKey" element={<EntryPage />} />
+        </Routes>
+
     </div>
   );
 }

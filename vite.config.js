@@ -2,9 +2,11 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
 
-export default defineConfig(({ command }) => {
+export default defineConfig(() => {
+  const base = process.env.VITE_BASE_URL || '/';
+
   return {
-    base: command === 'serve' ? '/' : '/web3-glossary-website/', // Use the correct base URL
+    base: base,
     plugins: [react()],
     resolve: {
       alias: {

@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   input: ['src/**/*.{js,jsx}'], // Specify the input files to scan
-  output: 'src/i18n/locales/', // Specify the output directory for the translation files
+  output: 'src/locales/', // Specify the output directory for the translation files
   options: {
     debug: true, // Enable debugging
     removeUnusedKeys: false, // Remove unused translation keys

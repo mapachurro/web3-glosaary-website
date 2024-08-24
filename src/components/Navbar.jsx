@@ -22,26 +22,32 @@ function Navbar({ onLogoClick }) {
         Education DAO Glossary
       </div>
       <select onChange={handleLanguageChange} value={i18n.language} style={styles.languageSelector}>
-      <option value="en">English</option>
-      <option value="es">Español</option>
-      <option value="ar">العربية</option>
-      <option value="de">Deutsch</option>
-      <option value="fr">Français</option>
-      <option value="id">Bahasa Indonesia</option>
-      <option value="it">Italiano</option>
-      <option value="ja">日本語</option>
-      <option value="ko">한국어</option>
-      <option value="nl">Nederlands</option>
-      <option value="pt-br">Português (Brasil)</option>
-      <option value="ru">Русский</option>
-      <option value="th">ไทย</option>
-      <option value="tl">Tagalog</option>
-      <option value="tr">Türkçe</option>
-      <option value="uk">Українська</option>
-      <option value="vi">Tiếng Việt</option>
-      <option value="zh-cn">中文 (简体)</option>
-        
-      </select>
+  <option value="en_US">English</option>
+  <option value="es_ES">Español</option>
+  <option value="ar_AR">العربية</option>
+  <option value="de_DE">Deutsch</option>
+  <option value="fr_FR">Français</option>
+  <option value="id_ID">Bahasa Indonesia</option>
+  <option value="it_IT">Italiano</option>
+  <option value="ja_JP">日本語</option>
+  <option value="ko_KR">한국어</option>
+  <option value="nl_NL">Nederlands</option>
+  <option value="pt_BR">Português (Brasil)</option>
+  <option value="ru_RU">Русский</option>
+  <option value="th_TH">ไทย</option>
+  <option value="tl_PH">Tagalog</option>
+  <option value="tr_TR">Türkçe</option>
+  <option value="uk_UA">Українська</option>
+  <option value="vi_VN">Tiếng Việt</option>
+  <option value="zh_CN">中文 (简体)</option>
+  <option value="hu_HU">Magyar</option> {/* Hungarian */}
+  <option value="el_GR">Ελληνικά</option> {/* Greek */}
+  <option value="hi_IN">हिन्दी</option> {/* Hindi */}
+  <option value="fa_IR">فارسی</option> {/* Persian */}
+  <option value="pl_PL">Polski</option> {/* Polish */}
+  <option value="zh_TW">中文 (繁體)</option> {/* Traditional Chinese */}
+</select>
+
     </nav>
   );
 };
