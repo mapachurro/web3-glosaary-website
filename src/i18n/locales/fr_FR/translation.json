@@ -392,5 +392,11 @@
   "zero address": "adresse zéro",
   "Zero-knowledge proof": "Preuve à divulgation nulle de connaissance (ZKP)",
   "Zero-knowledge rollup": "Rollup à divulgation nulle de connaissance(rollup ZK)",
-  "zk-SNARKs": "zk-SNARKs"
+  "zk-SNARKs": "zk-SNARKs",
+  "Search the Education DAO Glossary": "Rechercher dans le Glossaire DAO Éducation",
+  "Search": "Recherche",
+  "New search": "Nouvelle recherche",
+  "Category": "Catégorie",
+  "Glossary": "Glossaire",
+  "term": "terme"
 }

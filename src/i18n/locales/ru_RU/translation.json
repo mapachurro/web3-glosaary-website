@@ -392,5 +392,11 @@
   "zero address": "нулевой адрес",
   "Zero-knowledge proof": "Доказательство с нулевым разглашением",
   "Zero-knowledge rollup": "Роллап с нулевым разглашением",
-  "zk-SNARKs": "Протоколы zk-SNARK"
+  "zk-SNARKs": "Протоколы zk-SNARK",
+  "Search the Education DAO Glossary": "Искать в Глоссарии DAO Образования",
+  "Search": "Поиск",
+  "New search": "Новый поиск",
+  "Category": "Категория",
+  "Glossary": "Глоссарий",
+  "term": "термин"
 }

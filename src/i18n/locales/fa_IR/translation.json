@@ -309,7 +309,7 @@
   "rollups": "رول‌آپ‌ها",
   "Ropsten": "راپستن",
   "RPC": "RPC",
-  "rug pull": "‏کلاهبرداری راگ پول",
+  "rug pull": "کلاهبرداری راگ پول",
   "Safeheron": "Safeheron",
   "Samsung Pay": "پرداخت سامسونگ",
   "sandbox": "سندباکس",
@@ -392,5 +392,11 @@
   "zero address": "آدرس صفر",
   "Zero-knowledge proof": "اثبات دانش صفر",
   "Zero-knowledge rollup": "رول‌آپ‌ بی‌نیاز به دانش",
-  "zk-SNARKs": "گواه‌های اثبات دانش صفر غیرتعاملی"
+  "zk-SNARKs": "گواه‌های اثبات دانش صفر غیرتعاملی",
+  "Search the Education DAO Glossary": "جستجو در واژه‌نامه DAO آموزش",
+  "Search": "جستجو",
+  "New search": "جستجوی جدید",
+  "Category": "دسته‌بندی",
+  "Glossary": "واژه‌نامه",
+  "term": "اصطلاح"
 }

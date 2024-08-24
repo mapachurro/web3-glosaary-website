@@ -392,5 +392,12 @@
       "zero address": "dirección cero",
       "Zero-knowledge proof": "prueba de conocimiento cero",
       "Zero-knowledge rollup": "rollup de conocimiento cero",
-      "zk-SNARKs": "zk-SNARKs"
+      "zk-SNARKs": "zk-SNARKs",
+        "Search the Education DAO Glossary": "Buscar en el Glosario de la DAO de Educación",
+        "Search": "Buscar",
+        "New search": "Nueva búsqueda",
+        "Category": "Categoría",
+        "Glossary": "Glosario",
+        "term": "término"
+      
     }

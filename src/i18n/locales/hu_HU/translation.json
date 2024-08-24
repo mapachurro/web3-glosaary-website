@@ -392,5 +392,11 @@
   "zero address": "nulla cím",
   "Zero-knowledge proof": "zero-knowledge proof (nullaismeretű bizonyítás)",
   "Zero-knowledge rollup": "zero-knowledge rollup (nullaismeretű összevont tranzakció)",
-  "zk-SNARKs": "zk-SNARKs"
+  "zk-SNARKs": "zk-SNARKs",
+  "Search the Education DAO Glossary": "Keresés az Oktatási DAO Szótárban",
+  "Search": "Keresés",
+  "New search": "Új keresés",
+  "Category": "Kategória",
+  "Glossary": "Szótár",
+  "term": "fogalom"
 }

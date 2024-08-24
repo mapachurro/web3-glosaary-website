@@ -392,5 +392,11 @@
   "zero address": "Μηδενική διεύθυνση",
   "Zero-knowledge proof": "Απόδειξη μηδενικής γνώσης",
   "Zero-knowledge rollup": "Zero-knowledge rollup (rollup μηδενικής γνώσης)",
-  "zk-SNARKs": "zk-SNARKs (μη διαδραστικές αποδείξεις μηδενικής γνώσης)"
+  "zk-SNARKs": "zk-SNARKs (μη διαδραστικές αποδείξεις μηδενικής γνώσης)",
+  "Search the Education DAO Glossary": "Αναζήτηση στο Γλωσσάρι της DAO Εκπαίδευσης",
+  "Search": "Αναζήτηση",
+  "New search": "Νέα αναζήτηση",
+  "Category": "Κατηγορία",
+  "Glossary": "Γλωσσάρι",
+  "term": "όρος"
 }

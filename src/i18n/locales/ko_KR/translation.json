@@ -392,5 +392,11 @@
   "zero address": "제로 어드레스",
   "Zero-knowledge proof": "영지식 증명",
   "Zero-knowledge rollup": "영지식 롤업",
-  "zk-SNARKs": "영지식 스나크"
+  "zk-SNARKs": "영지식 스나크",
+  "Search the Education DAO Glossary": "교육 DAO 용어집 검색",
+  "Search": "검색",
+  "New search": "새 검색",
+  "Category": "카테고리",
+  "Glossary": "용어집",
+  "term": "용어"
 }
